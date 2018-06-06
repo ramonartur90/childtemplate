@@ -1,0 +1,264 @@
+# Translation of Themes - Morfeu in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Morfeu package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-24 14:36:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Morfeu\n"
+
+#. Description of the plugin/theme
+msgid "Morfeu is a simple, clean and responsive theme for blogs, magazines and business websites. Features include a front page template with a full-width slider for featured posts, as well as a beautiful and fluid grid system. Made to be easy to use and fast."
+msgstr "Morfeu é um tema simples, limpo e responsivo para blogs, revistas e sites empresariais. Suas funcionalidades incluem um template de página inicial com um slider full-width para posts em destaque, bem como um bonito e fluido sistema de grid. Feito para ser fácil de usar e rápido."
+
+#. Theme Name of the plugin/theme
+msgid "Morfeu"
+msgstr "Morfeu"
+
+#: slider.php:47
+msgid "Next"
+msgstr "Próximo"
+
+#: slider.php:43
+msgid "Previous"
+msgstr "Anterior"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Pesquisar"
+
+#: search.php:5
+msgid "Search Results for: %s"
+msgstr "Resultado de busca por: %s"
+
+#: inc/template-tags.php:64
+msgid "By"
+msgstr "Por"
+
+#: inc/template-tags.php:60 inc/template-tags.php:80
+msgid "Sticky"
+msgstr "Destacado"
+
+#: inc/comments-loop.php:54
+msgid "Respond"
+msgstr "Responder"
+
+#: inc/comments-loop.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando moderação."
+
+#: inc/comments-loop.php:39
+msgid "said:"
+msgstr "disse:"
+
+#: inc/comments-loop.php:38
+msgid "at"
+msgstr "as"
+
+#: inc/comments-loop.php:35
+msgid "in"
+msgstr "em"
+
+#: inc/comments-loop.php:31
+msgid "Author"
+msgstr "Autor"
+
+#: inc/comments-loop.php:18 inc/comments-loop.php:42
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/comments-loop.php:18
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: image.php:30
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+#: image.php:30
+msgid "Back to %s"
+msgstr "Voltar para %s"
+
+#: image.php:25
+msgid "Next image &rarr;"
+msgstr "Próxima imagem &rarr;"
+
+#: image.php:24
+msgid "&larr; Previous image"
+msgstr "&larr; Imagem anterior"
+
+#: image.php:13
+msgid "Full image link"
+msgstr "Link da imagem completa"
+
+#: image.php:13
+msgid "Image total size: %s pixels"
+msgstr "Tamanho total da imagem: %s pixels"
+
+#: header.php:53
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: header.php:18
+msgid "Toggle navigation"
+msgstr "Alternar navegação"
+
+#: functions.php:114
+msgid "Site Main Sidebar"
+msgstr "Sidebar principal do site"
+
+#: functions.php:112
+msgid "Main Sidebar"
+msgstr "Sidebar principal"
+
+#: functions.php:37
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: footer.php:6
+msgid "Developed by <a href=\"%s\" rel=\"nofollow\" target=\"_blank\">Rodrigo Brito</a> with Odin &hearts;  - Powered by <a href=\"%s\" rel=\"nofollow\" target=\"_blank\">WordPress</a>."
+msgstr "Desenvolvido por <a href=\"%s\" rel=\"nofollow\" target=\"_blank\">Rodrigo Brito</a> com Odin &hearts;  - Powered by <a href=\"%s\" rel=\"nofollow\" target=\"_blank\">WordPress</a>."
+
+#: footer.php:6
+msgid "All rights reserved"
+msgstr "Todos os direitos reservados"
+
+#: core/helpers.php:428 core/helpers.php:430
+msgid "Page %s"
+msgstr "Página %s"
+
+#: core/helpers.php:421
+msgid "404 Error"
+msgstr "Erro 404"
+
+#: core/helpers.php:371
+msgid "Posted by"
+msgstr "Publicado por"
+
+#: core/helpers.php:365
+msgid "%sSearch result for: &quot;%s&quot;%s"
+msgstr "%sResultado da busca para: &quot;%s&quot;%s"
+
+#: core/helpers.php:350
+msgid "%sTag: %s%s"
+msgstr "%sTag: %s%s"
+
+#: core/helpers.php:346
+msgid "%sCategory: %s%s"
+msgstr "%sCategoria: %s%s"
+
+#: core/helpers.php:232
+msgid "Home"
+msgstr "Início"
+
+#: core/helpers.php:96
+msgid "Related Posts"
+msgstr "Artigos relacionados"
+
+#: core/helpers.php:54
+msgid "Next &raquo;"
+msgstr "Próximo &raquo;"
+
+#: core/helpers.php:53
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior"
+
+#: core/classes/class-bootstrap-nav.php:203
+msgid "Add a menu"
+msgstr "Adicionar um menu"
+
+#: content.php:53
+msgid "Tags: "
+msgstr "Tags: "
+
+#: content.php:43
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue lendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-page.php:10 content.php:45
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:17
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que não conseguimos encontrar o que você está procurando. Talvez a pesquisa pode ajudar."
+
+#: content-none.php:12
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Desculpe, mas nada foi encontrado com os termos da sua pesquisa. Por favor, tente novamente com algumas palavras-chave diferentes."
+
+#: content-none.php:8
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto para publicar o seu primeiro post? <a href=\"%1$s\">Comece agora aqui</a>."
+
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: comments.php:52
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:50
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:47
+msgid "Comment"
+msgstr "Comentário"
+
+#: comments.php:38
+msgid "Comments closed."
+msgstr "Comentários não são permitidos."
+
+#: comments.php:21 comments.php:32
+msgid "New Comments &rarr;"
+msgstr "Novos comentários &rarr;"
+
+#: comments.php:20 comments.php:31
+msgid "&larr; Old Comments"
+msgstr "&larr; Comentários antigos"
+
+#: comments.php:14
+msgid "to"
+msgstr "para"
+
+#: comments.php:13 inc/template-tags.php:72
+msgid "% Comments"
+msgstr "% comentários"
+
+#: comments.php:13 inc/template-tags.php:72
+msgid "1 Comment"
+msgstr "1 comentário"
+
+#: comments.php:13 inc/template-tags.php:72
+msgid "0 Comments"
+msgstr "0 comentários"
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view all comments."
+msgstr "Esse post é protegido por senha. Informe a senha para ver todos os comentários."
+
+#: 404.php:10
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que nada foi encontrado neste local. Talvez tentar uma pesquisa?"
+
+#: 404.php:6
+msgid "Not Found"
+msgstr "Nada encontrado"
+
+#. Author URI of the plugin/theme
+msgid "http://www.rodrigobrito.net"
+msgstr "http://www.rodrigobrito.net"
+
+#. Author of the plugin/theme
+msgid "Rodrigo Brito"
+msgstr "Rodrigo Brito"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/rodrigo-brito/morfeu-theme"
+msgstr "https://github.com/rodrigo-brito/morfeu-theme"
